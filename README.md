@@ -1,66 +1,138 @@
-# Grow Minion LLC
+<div align="center">
 
-![Grow Minion](https://i.postimg.cc/RFMLRrts/download-(1).png)
+# 🚀 GrowMinion LLC
 
-**Local Marketing Agency for Law Firms & Businesses**
+<img src="https://i.postimg.cc/RFMLRrts/download-(1).png" width="170">
 
-We help local businesses and law firms dominate Google Maps, AI search, and traditional search - turning visibility into predictable leads and revenue.
+### Building Revenue Engines for Local Businesses
 
----
+**SEO • AI Automation • SaaS Products • Paid Media • Web Development**
 
-## About Grow Minion
+[![Website](https://img.shields.io/badge/Website-growminion.com-black?style=for-the-badge)](https://growminion.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GrowMinion-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/growminion)
+[![Facebook](https://img.shields.io/badge/Facebook-GrowMinion-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/GrowMinionLLC/)
+[![Instagram](https://img.shields.io/badge/Instagram-growminion-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/growminion/)
+[![YouTube](https://img.shields.io/badge/YouTube-GrowMinion-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@joydipkirtuniamarketing)
 
-Grow Minion is a full-service local marketing agency specializing in law firm lead generation and local business growth. We combine Local SEO, Google & Meta Ads, AI-powered lead intake, and conversion-focused websites into one integrated system.
-
-**Our Mission**: Turn local "minions" into market giants.
-
----
-
-## Our Locations
-
-- **Home Office**: Scarborough, Toronto, Ontario, Canada
-- **Registered**: Sheridan, Wyoming, USA
-- **Operations**: Dhaka, Bangladesh
+</div>
 
 ---
 
-## Products We've Built
+# 🚀 About GrowMinion
 
-- **RankDominator** - Local SEO Grid Ranking Tracker  
-  Real-time monitoring of Google Map Pack & local rankings.
+GrowMinion LLC is a digital marketing and software company helping local businesses generate more leads through **SEO, AI automation, paid advertising, and custom SaaS platforms**.
 
-- **CraftMinion** - AI Content & SEO Writing Platform  
-  Smart AI writer built for local SEO and law firm content.
+Instead of offering isolated marketing services, we build complete **Revenue Engines** that combine search visibility, AI automation, lead generation, and conversion optimization.
 
-- **AlertFlow** - Website & Workflow Monitoring Automation  
-  Instant alerts for site issues, ranking drops, and lead flow problems.
+Today, our systems support **100+ businesses** across North America.
 
 ---
 
-## Our Core Services
+# ⚡ Revenue Engine
 
-- Local SEO & Google Business Profile Optimization
-- Google Ads & Meta Ads (Lead Generation Focused)
-- AI Intake & Automation (Minniyo System)
-- Website Design & Conversion Optimization
-- White Label Services for Agencies
-- Topical Authority Content Strategy
-
----
-
-## Connect With Us
-
-- **Website**: [growminion.com](https://growminion.com/)
-- **Facebook**: [@GrowMinionLLC](https://www.facebook.com/GrowMinionLLC/)
-- **Instagram**: [@growminion](https://www.instagram.com/growminion/)
-- **LinkedIn**: [GrowMinion LLC](https://www.linkedin.com/company/growminion)
-- **YouTube**: [Joydip Kirtunia - Legal Marketing](https://www.youtube.com/@joydipkirtuniamarketing)
+- 📈 Organic SEO
+- 🗺 Google Business Profile Optimization
+- 🎯 Google Ads
+- 📱 Meta Ads
+- 🤖 AI Lead Intake
+- ⚡ Workflow Automation
+- 🌐 Conversion-Focused Websites
+- 📊 Analytics & Reporting
 
 ---
 
-**Founder**: Joydip Kirtunia
+# 🚀 Products
+
+## 🗺️ RankDominator
+
+**Local SEO Grid Ranking Tracker**
+
+Production-ready platform for monitoring Google Maps rankings with GeoGrid visualization, keyword tracking, and local search intelligence.
 
 ---
 
-Made with ❤️ for local businesses scaling from minion to market leader.  
-© 2026 Grow Minion LLC
+## ✍️ CraftMinion
+
+**AI Content & SEO Platform**
+
+AI-powered writing platform built for agencies and local businesses with content generation, competitor research, and SEO optimization.
+
+---
+
+## ⚡ AlertFlow
+
+**Website Monitoring & Automation**
+
+Monitor websites, workflows, and business-critical pages with instant email and Telegram alerts.
+
+---
+
+## 🤖 Minniyo
+
+**AI Lead Intake & Automation**
+
+Automate lead qualification, follow-ups, appointment scheduling, and client communication.
+
+---
+
+# 💼 Industries We Serve
+
+- ⚖️ Personal Injury Law
+- 👨‍⚖️ Law Firms
+- 🏥 Substance Abuse Centers
+- 💉 MedSpas
+- 🦷 Dental Clinics
+- 🏠 Home Services
+- 🏢 Franchises
+- 📍 Local Businesses
+
+---
+
+# 🌎 Global Presence
+
+🇨🇦 **Home Office**  
+Scarborough, Toronto, Ontario, Canada
+
+🇺🇸 **Registered Company**  
+Sheridan, Wyoming, USA
+
+🇧🇩 **Operations Office**  
+Dhaka, Bangladesh
+
+---
+
+# 🛠 Technology
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,supabase,php,tailwind,js,ts,git,github"/>
+
+</p>
+
+---
+
+# 🌐 Connect
+
+- 🌍 **Website:** https://growminion.com
+- 💼 **LinkedIn:** https://www.linkedin.com/company/growminion
+- 📘 **Facebook:** https://www.facebook.com/GrowMinionLLC/
+- 📷 **Instagram:** https://www.instagram.com/growminion/
+- ▶️ **YouTube:** https://www.youtube.com/@joydipkirtuniamarketing
+
+---
+
+### 👤 Founder
+
+**Joydip Kirtunia**
+
+---
+
+<div align="center">
+
+### 🚀 From Local Search to Predictable Revenue.
+
+Helping businesses grow through software, AI, automation, and digital marketing.
+
+⭐ Welcome to the official GrowMinion GitHub Organization.
+
+</div>
