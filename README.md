@@ -5,7 +5,7 @@
 **Local Marketing Agency for Law Firms & Businesses**
 
 We help local businesses and law firms dominate Google Maps, AI search, and traditional search — turning visibility into predictable leads and revenue.
----
+
 
 ## 🚀 About Grow Minion
 
@@ -25,10 +25,10 @@ Grow Minion is a full-service local marketing agency specializing in **law firm 
 
 ## 🛠 Products We've Built
 
-- **📍 RankDominator** — Local SEO Grid Ranking Tracker  
+- **📍 RankDominator** - Local SEO Grid Ranking Tracker  
   Real-time monitoring of Google Map Pack & local rankings.
 
-- **✍️ CraftMinion** — AI Content & SEO Writing Platform  
+- **✍️ CraftMinion** - AI Content & SEO Writing Platform  
   Smart AI writer built for local SEO and law firm content.
 
 - **⚡ AlertFlow** — Website & Workflow Monitoring Automation  
