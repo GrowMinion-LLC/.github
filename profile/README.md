@@ -114,10 +114,10 @@ From AI automation and local SEO intelligence to SaaS platforms and modern web a
 
 ## 🚀 Products Built by This Team
 
-- 🗺️ **RankDominator** — Local SEO GeoGrid & Google Maps Rank Tracking
-- ✍️ **CraftMinion** — AI Content Writing & SEO Platform
-- ⚡ **AlertFlow** — Website Monitoring & Notification Platform
-- 🤖 **Minniyo** — AI Lead Intake & Business Automation
+- 🗺️ **RankDominator**  Local SEO GeoGrid & Google Maps Rank Tracking
+- ✍️ **CraftMinion**  AI Content Writing & SEO Platform
+- ⚡ **AlertFlow** Website Monitoring & Notification Platform
+- 🤖 **Minniyo**  AI Lead Intake & Business Automation
 - 🔧 Internal AI Tools, Automation Systems & Custom Client Platforms
 
 
