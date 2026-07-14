@@ -1,66 +1,213 @@
-# Grow Minion LLC
+<div align="center">
 
-![Grow Minion](https://i.postimg.cc/RFMLRrts/download-(1).png)
+<img src="./github_profile_under_1MB.jpg" width="100%" alt="Sani Banner"/>
 
-**Local Marketing Agency for Law Firms & Businesses**
+# Hi, I'm Sani 👋
 
-We help local businesses and law firms dominate Google Maps, AI search, and traditional search - turning visibility into predictable leads and revenue.
+### Web & Automation Engineer @ GrowMinion LLC
 
----
+<p>
+Building modern SaaS products, AI automation systems, SEO platforms, and scalable full-stack applications.
+</p>
 
-## About Grow Minion
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=900&lines=Web+%26+Automation+Engineer;SaaS+Builder;AI+Automation+Developer;SEO+Platform+Engineer;Full+Stack+Developer+from+Bangladesh" />
 
-Grow Minion is a full-service local marketing agency specializing in law firm lead generation and local business growth. We combine Local SEO, Google & Meta Ads, AI-powered lead intake, and conversion-focused websites into one integrated system.
+<br>
 
-**Our Mission**: Turn local "minions" into market giants.
+<a href="https://www.linkedin.com/in/sani48">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://wa.me/8801745947359">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 
-## Our Locations
+<a href="https://www.facebook.com/abdulkaiyum.sani.50">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
-- **Home Office**: Scarborough, Toronto, Ontario, Canada
-- **Registered**: Sheridan, Wyoming, USA
-- **Operations**: Dhaka, Bangladesh
+<a href="https://growminion.com">
+<img src="https://img.shields.io/badge/GrowMinion-FFD400?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
+</a>
 
----
+<br><br>
 
-## Products We've Built
+<img src="https://komarev.com/ghpvc/?username=devsani-gm&label=Profile%20Views&color=facc15&style=for-the-badge"/>
 
-- **RankDominator** - Local SEO Grid Ranking Tracker  
-  Real-time monitoring of Google Map Pack & local rankings.
-
-- **CraftMinion** - AI Content & SEO Writing Platform  
-  Smart AI writer built for local SEO and law firm content.
-
-- **AlertFlow** - Website & Workflow Monitoring Automation  
-  Instant alerts for site issues, ranking drops, and lead flow problems.
-
----
-
-## Our Core Services
-
-- Local SEO & Google Business Profile Optimization
-- Google Ads & Meta Ads (Lead Generation Focused)
-- AI Intake & Automation (Minniyo System)
-- Website Design & Conversion Optimization
-- White Label Services for Agencies
-- Topical Authority Content Strategy
+</div>
 
 ---
 
-## Connect With Us
+# 🚀 About Me
 
-- **Website**: [growminion.com](https://growminion.com/)
-- **Facebook**: [@GrowMinionLLC](https://www.facebook.com/GrowMinionLLC/)
-- **Instagram**: [@growminion](https://www.instagram.com/growminion/)
-- **LinkedIn**: [GrowMinion LLC](https://www.linkedin.com/company/growminion)
-- **YouTube**: [Joydip Kirtunia - Legal Marketing](https://www.youtube.com/@joydipkirtuniamarketing)
+I'm **Sani**, a **Web & Automation Engineer at GrowMinion LLC**, passionate about building scalable SaaS products, AI-powered automation, and modern web platforms.
+
+Instead of creating ordinary websites, I enjoy building products that automate business workflows, improve productivity, and solve real-world problems.
+
+### Currently Working On
+
+- 🚀 SaaS Product Development
+- 🤖 AI Automation Systems
+- ⚡ Workflow Automation (n8n)
+- 📈 Local SEO Platforms
+- 🗺️ Google Maps Intelligence
+- ✍️ AI Content Generation
+- 🌐 Modern Full Stack Applications
 
 ---
 
-**Founder**: Joydip Kirtunia
+# ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,supabase,tailwind,git,github,vercel,vscode"/>
+
+</p>
 
 ---
 
-Made with ❤️ for local businesses scaling from minion to market leader.  
-© 2026 Grow Minion LLC
+# 🚀 Featured Products
+
+---
+
+## 🗺️ Rank Dominator
+
+Professional Google Maps GeoGrid Rank Tracking Platform for Local SEO.
+
+<img src="./screenshots/rankdominator.png" alt="Rank Dominator"/>
+
+### Highlights
+
+- Google Maps GeoGrid
+- Local Pack Tracking
+- DataForSEO Integration
+- Business Profiles
+- Heatmap Visualization
+- Local SEO Analytics
+
+---
+
+## ✨ CraftMinion
+
+AI-powered SEO Content Writing Platform built for agencies and businesses.
+
+<img src="./screenshots/craftminion.png" alt="CraftMinion"/>
+
+### Highlights
+
+- AI Service Page Writing
+- AI Blog Writing
+- Competitor Research
+- Meta Optimizer
+- Strategy Planner
+- Sitemap Analyzer
+- Business Manager
+
+---
+
+## ⚡ AlertFlow
+
+Automation platform for monitoring websites and sending instant notifications.
+
+<img src="./screenshots/alertflow.png" alt="AlertFlow"/>
+
+### Highlights
+
+- Website Monitoring
+- Telegram Alerts
+- Email Notifications
+- Dashboard
+- Scheduled Checks
+- Client Management
+- Automation Logs
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devsani-gm&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsani-gm&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=devsani-gm&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devsani-gm&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+| Project | Description |
+|---------|-------------|
+| 🚀 Rank Dominator | Google Maps GeoGrid Rank Tracking Platform |
+| ✨ CraftMinion | AI-Powered SEO Content Platform |
+| ⚡ AlertFlow | Website Monitoring & Notification Platform |
+| 🤖 AI Automation | Workflow Automation & AI Integration |
+| 🌍 Full Stack Apps | Modern SaaS & Dashboard Development |
+
+---
+
+# 💡 I Love Building
+
+- 🚀 SaaS Products
+- 🤖 AI Automation
+- 📈 SEO Platforms
+- 🗺️ Local Search Intelligence
+- ⚡ Workflow Automation
+- 📊 Business Dashboards
+- 🌐 Modern Web Applications
+- 🔗 REST APIs
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sani48">
+<img src="https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://wa.me/8801745947359">
+<img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp"/>
+</a>
+
+<a href="https://www.facebook.com/abdulkaiyum.sani.50">
+<img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+# ⭐ Build Once. Automate Forever.
+
+### Creating products that save time, automate workflows, and solve real business problems.
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=devsani-gm&theme=onedark&no-frame=true&margin-w=10&margin-h=10"/>
+
+<br><br>
+
+### Thanks for visiting my profile ❤️
+
+</div>
