@@ -103,8 +103,11 @@ An AI-powered lead management system that automates:
   <img src="https://i.postimg.cc/3xp06LCz/image.png" width="100%" alt="GrowMinion Engineering Team">
 </p>
 
-<h3 style="color:red"> At GrowMinion, every product is designed, developed, and continuously improved by our in-house engineering team. </h3>
-
+<h3 align="center">
+  <span style="color:#7C3AED;">
+    At GrowMinion, every product is designed, developed, and continuously improved by our in-house engineering team.
+  </span>
+</h3>
 We don't rely on templates or outsourced development. Our engineers, designers, and AI specialists collaborate to build scalable software, intelligent automation, and digital solutions that solve real business challenges for local businesses worldwide.
 
 From AI automation and local SEO intelligence to SaaS platforms and modern web applications, every solution is built with performance, reliability, and long-term growth in mind.
