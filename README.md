@@ -1,10 +1,16 @@
 <div align="center">
 
 # 🚀 GrowMinion LLC
-
 <p align="center">
-  <img src="https://i.postimg.cc/RFMLRrts/download-(1).png" width="60%" alt="GrowMinion Logo">
+  <img src="./profile/banner.png" width="100%" alt="GrowMinion Banner">
 </p>
+
+<h1 align="center">🚀 GrowMinion LLC</h1>
+
+<h3 align="center">
+Building Revenue Engines for Local Businesses
+</h3>
+
 ### Building Revenue Engines for Local Businesses
 
 **SEO • AI Automation • SaaS Products • Paid Media • Web Development**
