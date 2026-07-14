@@ -202,7 +202,7 @@ We combine modern development frameworks, AI-powered tools, automation systems, 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,supabase,php,tailwind,js,ts,wordpress,git,github,vscode,figma" />
 </p>
 
-> ✨ From custom websites and AI automation to SEO, paid advertising, and social media management—we provide complete digital growth solutions under one roof.
+> ✨ From custom websites and AI automation to SEO, paid advertising, and social media management we provide complete digital growth solutions under one roof.
 
 
 
