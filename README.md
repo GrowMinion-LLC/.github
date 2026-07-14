@@ -1,11 +1,10 @@
 # Grow Minion LLC
 
-![Grow Minion]([https://picsum.photos/id/1015/1200/600](https://i.postimg.cc/RFMLRrts/download-(1).png))
+![Grow Minion](https://i.postimg.cc/RFMLRrts/download-(1).png)
 
 **Local Marketing Agency for Law Firms & Businesses**
 
 We help local businesses and law firms dominate Google Maps, AI search, and traditional search — turning visibility into predictable leads and revenue.
-
 ---
 
 ## 🚀 About Grow Minion
