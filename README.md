@@ -2,7 +2,7 @@
 
 # 🚀 GrowMinion LLC
 <p align="center">
-  <img src="https://i.postimg.cc/RFMLRrts/download-(1).png" width="60%" alt="GrowMinion Logo">
+  <img src="https://i.postimg.cc/RFMLRrts/download-(1).png" width="120%" alt="GrowMinion Logo">
 </p>
 
 ### Building Revenue Engines for Local Businesses
