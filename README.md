@@ -2,8 +2,9 @@
 
 # 🚀 GrowMinion LLC
 
-<img src="https://i.postimg.cc/RFMLRrts/download-(1).png" width="170">
-
+<p align="center">
+  <img src="https://i.postimg.cc/RFMLRrts/download-(1).png" width="60%" alt="GrowMinion Logo">
+</p>
 ### Building Revenue Engines for Local Businesses
 
 **SEO • AI Automation • SaaS Products • Paid Media • Web Development**
