@@ -7,6 +7,7 @@
 </p>
 
 ### Building Revenue Engines for Local Businesses
+### Minion To Million
 
 **SEO • AI Automation • SaaS Products • Paid Media • Web Development**
 
@@ -18,7 +19,7 @@
 
 </div>
 
----
+
 
 # 🚀 About GrowMinion
 
@@ -28,7 +29,7 @@ Rather than offering disconnected marketing services, we build complete **Revenu
 
 Today, GrowMinion proudly supports **100+ companies** across North America with scalable digital growth solutions.
 
----
+
 
 # ⚡ Revenue Engine
 
@@ -45,7 +46,6 @@ Our Revenue Engine includes:
 - 🌐 Conversion-Focused Websites
 - 📊 Analytics, Tracking & Reporting
 
----
 
 # 🚀 Products
 
@@ -60,7 +60,6 @@ A professional local SEO platform for agencies and businesses featuring:
 - Google Maps Visibility
 - Competitor Intelligence
 
----
 
 ## ✍️ CraftMinion
 
@@ -75,7 +74,7 @@ Features include:
 - Competitor Research
 - Content Planning
 
----
+
 
 ## ⚡ AlertFlow
 
@@ -83,7 +82,7 @@ Features include:
 
 Instantly monitor websites, APIs, landing pages, and business workflows with email and Telegram notifications.
 
----
+
 
 ## 🤖 Minniyo
 
@@ -96,7 +95,7 @@ An AI-powered lead management system that automates:
 - Follow-up Automation
 - Client Communication
 
----
+
 
 # 👨‍💻 The Minds Behind Our Products
 
@@ -118,7 +117,7 @@ From AI automation and local SEO intelligence to SaaS platforms and modern web a
 - 🤖 **Minniyo** — AI Lead Intake & Business Automation
 - 🔧 Internal AI Tools, Automation Systems & Custom Client Platforms
 
----
+
 
 <div align="center">
 
@@ -128,13 +127,13 @@ Building software, AI systems, and marketing technology that help businesses **g
 
 </div>
 
----
+
 
 # 🚀 Technologies & Expertise
 
 We combine modern development frameworks, AI-powered tools, automation systems, and digital marketing platforms to build scalable business growth solutions.
 
----
+
 
 ## 💻 Development
 
@@ -154,7 +153,7 @@ We combine modern development frameworks, AI-powered tools, automation systems, 
 - 📱 Responsive Website Development
 - 🔗 REST API Integration
 
----
+
 
 ## 📈 Digital Marketing
 
@@ -167,7 +166,6 @@ We combine modern development frameworks, AI-powered tools, automation systems, 
 - ✍️ Content Marketing
 - 📊 Conversion Rate Optimization (CRO)
 
----
 
 ## 🤖 AI & Automation
 
@@ -182,7 +180,7 @@ We combine modern development frameworks, AI-powered tools, automation systems, 
 - 🤖 AI Assistants
 - 📈 Business Intelligence Automation
 
----
+
 
 ## 📱 Social Media
 
@@ -193,7 +191,7 @@ We combine modern development frameworks, AI-powered tools, automation systems, 
 - 👥 Community Management
 - 📈 Social Media Growth Strategy
 
----
+
 
 ## 🛠 Development Stack
 
@@ -203,7 +201,7 @@ We combine modern development frameworks, AI-powered tools, automation systems, 
 
 > ✨ From custom websites and AI automation to SEO, paid advertising, and social media management—we provide complete digital growth solutions under one roof.
 
----
+
 
 # 💼 Industries We Serve
 
@@ -231,13 +229,13 @@ We help businesses across diverse industries grow through strategic marketing, a
 - 📸 Photography Studios
 - 📍 Local Businesses
 
----
+
 
 ## 🌟 Trusted by 100+ Companies
 
 We've partnered with more than **100 businesses** across North America, helping them generate qualified leads, automate operations, and build predictable revenue systems.
 
----
+
 
 # 🌎 Global Presence
 
@@ -259,7 +257,7 @@ Sheridan, Wyoming
 
 Dhaka
 
----
+
 
 # 🌐 Connect With Us
 
@@ -278,7 +276,7 @@ https://www.instagram.com/growminion/
 ▶️ **YouTube**  
 https://www.youtube.com/@joydipkirtuniamarketing
 
----
+
 
 # 👤 Founder
 
@@ -288,7 +286,7 @@ Founder & CEO — GrowMinion LLC
 
 Building AI-powered software, marketing systems, and scalable Revenue Engines for local businesses.
 
----
+
 
 <div align="center">
 
