@@ -2,14 +2,8 @@
 
 # 🚀 GrowMinion LLC
 <p align="center">
-  <img src="./profile/banner.png" width="100%" alt="GrowMinion Banner">
+  <img src="https://i.postimg.cc/RFMLRrts/download-(1).png" width="60%" alt="GrowMinion Logo">
 </p>
-
-<h1 align="center">🚀 GrowMinion LLC</h1>
-
-<h3 align="center">
-Building Revenue Engines for Local Businesses
-</h3>
 
 ### Building Revenue Engines for Local Businesses
 
